@@ -1,5 +1,5 @@
 ## Hi there 👋
-:computer:**Aspirante**
+:computer:**Aspirante.**
 :pencil:**Estudiante**
 :eyeglasses:**Underdogs**
 :oncoming_automobile:**Fan de los autos, gatos, caballos y mangos**
