@@ -1,16 +1,15 @@
 ## Hi there 👋
+:computer:**Aspirante**
+:pencil:**Estudiante**
+:eyeglasses:**Underdogs**
+:oncoming_automobile:**Fan de los autos, gatos, caballos y mangos**
+:family:**Hermana del medio**
 
-<!--
-**grecycapperez-byte/grecycapperez-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vias de contacto 
 
-Here are some ideas to get you started:
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fdgpz1890%3Figsh%3DOXdwaG5uZGd6aXRz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/grecycapperez-byte/grecycapperez-byte)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/grecycapperez-byte/miPrimerRepo)
+
