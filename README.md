@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulce Grecia</h1>
-<h3 align="center">tacos 🌮 y pan 🥐, and i like python</h3>
+<h3 align="center">tacos 🌮, pan 🥐, espagueti and i like python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grecycapperez-byte&label=Profile%20views&color=0e75b6&style=flat" alt="grecycapperez-byte" /> </p>
 
